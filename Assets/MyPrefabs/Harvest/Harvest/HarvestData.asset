@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4227a856c64617749aded36a4c6650e6, type: 3}
+  m_Name: HarvestData
+  m_EditorClassIdentifier: 
+  _harvestList:
+  - name: egg
+    sprite: {fileID: 21300000, guid: 786976370423b7447aaacd95ee423a28, type: 3}
+    cost: 50
+  _harvestPrefab: {fileID: 5410532645758331144, guid: 57a580b50ef7db5408e83cd5bc2b870f, type: 3}
